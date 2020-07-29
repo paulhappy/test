@@ -1,6 +1,6 @@
 module.exports = {
-	title: 'fc blog',
-	description: '我的个人网站',
+	title: 'canaan',
+	description: 'The place is canaan',
 	head: [ // 注入到当前页面的 HTML <head> 中的标签
 		[
 			'link', {
